@@ -1,0 +1,14 @@
+body{
+text-align: center;
+  background-image: url("image/alcohol-bar-beer.jpg");
+  background-size: cover;
+  padding: 150px;
+  color: blue;
+  font-family: Roboto;
+}
+#auteur{
+text-align: right;
+color: red;
+padding-right: 175px;
+font-family: Roboto;
+}
